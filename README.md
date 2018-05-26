@@ -4,4 +4,4 @@
 
 #### [Spring Bean Factory](https://gist.github.com/PiyushMittl/559607a3683b8bbbba81afbc87c874dd)
 
-#### [Spring_mvc_handleradapter](https://gist.github.com/PiyushMittl/319e81931fa4c661824831531a69ce2c)
+#### [Spring mvc handleradapter](https://gist.github.com/PiyushMittl/319e81931fa4c661824831531a69ce2c)
