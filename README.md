@@ -1,14 +1,14 @@
 # spring
 
-#### [Introduction to AOP](https://gist.github.com/PiyushMittl/2c0887a3c9a46ccca9576261a7f0df01)
+#### [1. Introduction to AOP](https://gist.github.com/PiyushMittl/2c0887a3c9a46ccca9576261a7f0df01)
 
-#### [Spring Bean Factory](https://gist.github.com/PiyushMittl/559607a3683b8bbbba81afbc87c874dd)
+#### [2. Spring Bean Factory](https://gist.github.com/PiyushMittl/559607a3683b8bbbba81afbc87c874dd)
 
-#### [Spring MVC Overview](https://gist.github.com/PiyushMittl/de3547afaccd985dbdeb6848c29d6e1b)
+#### [3. Spring MVC Overview](https://gist.github.com/PiyushMittl/de3547afaccd985dbdeb6848c29d6e1b)
 
-#### [Spring MVC handleradapter](https://gist.github.com/PiyushMittl/319e81931fa4c661824831531a69ce2c)
+#### [4. Spring MVC handleradapter](https://gist.github.com/PiyushMittl/319e81931fa4c661824831531a69ce2c)
 
-#### [Spring MVC workflow](https://gist.github.com/PiyushMittl/02efa5f0c9895e5394f9010b17a17bc1)
+#### [5. Spring MVC workflow](https://gist.github.com/PiyushMittl/02efa5f0c9895e5394f9010b17a17bc1)
 
-#### [Spring Transaction](https://gist.github.com/PiyushMittl/396d6d62f984f7e620a86d7bf17c6214)
+#### [6. Spring Transaction](https://gist.github.com/PiyushMittl/396d6d62f984f7e620a86d7bf17c6214)
 
