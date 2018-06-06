@@ -12,3 +12,5 @@
 
 #### [6. Spring Transaction](https://gist.github.com/PiyushMittl/396d6d62f984f7e620a86d7bf17c6214)
 
+#### [7. Spring Bean Scopes](https://gist.github.com/PiyushMittl/396d6d62f984f7e620a86d7bf17c6214)
+
