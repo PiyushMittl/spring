@@ -9,6 +9,7 @@
     2. [Transaction](https://gist.github.com/PiyushMittl/396d6d62f984f7e620a86d7bf17c6214)
     3. [Bean Scopes](https://gist.github.com/PiyushMittl/0dd66b487ea5ca8714af21c06ae92261)
     4. [AOP](https://gist.github.com/PiyushMittl/2c0887a3c9a46ccca9576261a7f0df01)
+    5. [Bean Factory](https://gist.github.com/PiyushMittl/559607a3683b8bbbba81afbc87c874dd)
 
 #### [1. Introduction to AOP](https://gist.github.com/PiyushMittl/2c0887a3c9a46ccca9576261a7f0df01)
 
