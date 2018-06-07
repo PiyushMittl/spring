@@ -8,7 +8,7 @@
         3. Workflow
     2. Transaction
     3. Bean Scopes
-    4. [AOP](https://gist.github.com/PiyushMittl/2c0887a3c9a46ccca9576261a7f0df01)
+   [4. AOP](https://gist.github.com/PiyushMittl/2c0887a3c9a46ccca9576261a7f0df01)
 
 #### [1. Introduction to AOP](https://gist.github.com/PiyushMittl/2c0887a3c9a46ccca9576261a7f0df01)
 
